@@ -30,7 +30,7 @@ export interface linkGroup {
 
 export const links: linkGroup[] = [
   {
-    "title": "Social Media",
+    "title": "Sociallllll",
     "links": [
       {
         "label": "Gmail",
